@@ -12,6 +12,9 @@ The Job Market Analytics project aims to gather valuable insights into active hi
 - **Pandas:** Employed for data manipulation and transformation.
 - **Power BI:** Utilized for visualization, allowing the transformation of raw data into actionable insights.
 
+## Architecture (EDR) 
+<img width="412" alt="image" src="https://github.com/AdryanaLau/Job-Market-Analytics/assets/158017880/d2971e31-54ca-44fa-b51a-69c1fd0f9a25">
+
 ## Workflow
 
 1. **Web Scraping:**
@@ -23,6 +26,7 @@ The Job Market Analytics project aims to gather valuable insights into active hi
 
 3. **Visualisation:**
    - Employed Power BI to visualize data, unveiling patterns and trends in job postings.
+     <img width="452" alt="image" src="https://github.com/AdryanaLau/Job-Market-Analytics/assets/158017880/ad79e7d6-96a4-4253-8336-c08a6fad64e0">
 
 ## Challenges
 
