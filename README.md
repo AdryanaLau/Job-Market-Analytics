@@ -27,7 +27,7 @@ The Job Market Analytics project aims to gather valuable insights into active hi
 3. **Visualisation:**
  <img width="452" alt="image" src="https://github.com/AdryanaLau/Job-Market-Analytics/assets/158017880/ad79e7d6-96a4-4253-8336-c08a6fad64e0">
  
- - The comprehensive visualisation presented above provides an overview of job postings categorised by companies, job titles, and posting dates. The dashboard showcases the aggregate number of job postings over the past 29 days, the average duration for postings across both SEEK and Indeed platforms, and identifies the most prevalent job titles. Additionally, it delineates the job postings within the last 7 days and highlights the distribution of postings among various companies.
+ - The comprehensive visualisation presented above provides an overview of job postings categorised by companies, job titles, and posting dates. The dashboard showcases the aggregate number of job postings over the past 29 days, the average duration for postings across the SEEK Platform, and identifies the most prevalent job titles. Additionally, it delineates the job postings within the last 7 days and highlights the distribution of postings among various companies.
 
  - Through this visualisation, we gained insights into the high-demand job titles and the companies actively engaged in talent acquisition. Equipped with this data-driven intelligence, we can refine our strategies, prioritise job openings, and effectively match candidates with suitable opportunities. This, in turn, increases the company's efficacy in the realm of analytics recruitment.
 
