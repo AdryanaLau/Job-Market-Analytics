@@ -136,12 +136,12 @@ After exploring these web scraping tools, Beautiful Soup emerged as the preferre
 ## 2. **Data Transformation:**
 - Utilised Python libraries such as Pandas for data transformation.
 
-<img width="452" alt="image" src="https://github.com/AdryanaLau/Job-Market-Analytics/assets/158017880/5dfdaf9b-080a-44d7-90f7-dbff872770e9">
+<img width="1000" alt="image" src="https://github.com/AdryanaLau/Job-Market-Analytics/assets/158017880/5dfdaf9b-080a-44d7-90f7-dbff872770e9">
 
 
 
 ## 3. **Visualisation:**
- <img width="452" alt="image" src="https://github.com/AdryanaLau/Job-Market-Analytics/assets/158017880/ad79e7d6-96a4-4253-8336-c08a6fad64e0">
+ <img width="1000" alt="image" src="https://github.com/AdryanaLau/Job-Market-Analytics/assets/158017880/ad79e7d6-96a4-4253-8336-c08a6fad64e0">
  
  - The comprehensive visualisation presented above provides an overview of job postings categorised by companies, job titles, and posting dates. The dashboard showcases the aggregate number of job postings over the past 29 days, the average duration for postings across the SEEK Platform, and identifies the most prevalent job titles. Additionally, it delineates the job postings within the last 7 days and highlights the distribution of postings among various companies.
 
