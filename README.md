@@ -132,10 +132,12 @@ The Job Market Analytics project aims to gather valuable insights into active hi
 After exploring these web scraping tools, Beautiful Soup emerged as the preferred choice for the Job Market Analytics project due to its simplicity and suitability for straightforward scraping tasks. However, the choice of a web scraping tool ultimately depends on the specific requirements and complexities of each project.
 
 
+
 ## 2. **Data Transformation:**
 - Utilised Python libraries such as Pandas for data transformation.
 
 <img width="452" alt="image" src="https://github.com/AdryanaLau/Job-Market-Analytics/assets/158017880/5dfdaf9b-080a-44d7-90f7-dbff872770e9">
+
 
 
 ## 3. **Visualisation:**
