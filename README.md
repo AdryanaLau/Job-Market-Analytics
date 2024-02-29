@@ -1,6 +1,5 @@
 # Job-Market-Analytics
 
-# Job Market Analytics
 
 ## Introduction
 
